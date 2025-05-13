@@ -1,4 +1,4 @@
-PAC-MAN GAME
+### PAC-MAN GAME
 
 ## Core Game Files
 - main.cpp: 
@@ -9,21 +9,34 @@ PAC-MAN GAME
 	- Initilaizes Lives and Score
 	- Initializes the Window
 - GameObject.h/GameObject.cpp: 
-	- Base class for all game objects with common properties like position and collision detection.
+	- Base class for all game objects.
+	- Manages position
+	- Collision detection (dots & pacman, energizer & pacman, ghosts & pacman)
 
 ## Game Elements
 - Pacman.h/Pacman.cpp: 
-	- The player-controlled character with movement, power-up handling, and animation.
+	- Mr Pacman himslef 
+	- User Input is handled here (I, J, K, L)
+	- Pacman power-up (energizer)
+	- Pacman animation
+	- [Also has has an enumerated class Direction]
 - Ghost.h/Ghost.cpp: 
-	- Enemy characters that chase the player using various movement strategies.
+	- Ghost Animation/Render
+	- Ghost strategy implementation
+	- Ghost frightened mide implementation
 - GhostStrategy.h/GhostStrategy.cpp: 
-	- Contains the WallBounceStrategy class for ghost movement based on wall collisions.
+	- Contains the WallBounceStrategy class
+	- This is used for Ghosts to change direction once they hit a wall
 - Maze.h/Maze.cpp: 
-	- Manages the game level layout, walls, tunnels, and collectible items.
+	- Manages the game map
+	- Manages the number of energizers and dots
+	- Manage Ghost/Pacman initialization
+	- Detects walls
+	- Keeps track of positions, and remaining items
 - Dot.h/Dot.cpp: 
-	- Small collectible items that Pac-Man eats for points.
+	- Simple implementation of a white dot
 - Energizer.h/Energizer.cpp: 
-	- Special collectibles that temporarily allow Pac-Man to eat ghosts.
+	- Simple implementation of a white blinking dot
 
 ## GAME FEATURES
 - Classic Pac-Man gameplay with dots, one energizer, and 3 ghosts
