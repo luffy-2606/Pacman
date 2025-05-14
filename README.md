@@ -86,8 +86,8 @@ The game can be easily customized:
 ## 🚀 Building and Running
 
 ```bash
-git clone https://github.com/yourusername/pacman-clone.git
-cd pacman-clone
+git clone https://github.com/luffy-2606/pacman.git
+cd pacman
 make
 ./pacman
 ```
