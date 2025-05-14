@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/C++-Solutions-yellow.svg?style=for-the-badge&logo=c%2B%2B" alt="C++ solutions"/>
     <img src="https://img.shields.io/badge/Game-Arcade-blue.svg?style=for-the-badge&logo=gamejolt" alt="Arcade Game"/>
     <img src="https://img.shields.io/badge/SFML-2.5.1-red.svg?style=for-the-badge" alt="SFML 2.5.1"/>
-    <img src="https://img.shields.io/badge/Version-1.0-success.svg?style=for-the-badge" alt="Version 1.6"/>
+    <img src="https://img.shields.io/badge/Version-1.6-success.svg?style=for-the-badge" alt="Version 1.6"/>
   </p>
   
   <br>
