@@ -1,8 +1,11 @@
 <div align="center">
   
-  <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=190&section=header&text=PAC-MAN&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20Implementation%20of%20the%20Classic%20Arcade%20Game%20|%20Built%20by%20Saaif&descAlignY=60&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=230&section=header&text=PAC-MAN&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20Implementation%20of%20the%20Classic%20Arcade%20Game%20|%20Built%20by%20Saaif&descAlignY=60&descAlign=50" />
   
-  <br>
+  ![Pac-Man Animation](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&color=FFFF00&center=true&vCenter=true&width=800&height=100&lines=PAC-MAN+GAME;FAST-NUCES;C%2B%2B+%26+SFML+2.5.1)
+    
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line break">
+    <br>
   
   <p>
     <img src="https://img.shields.io/badge/C++-Solutions-yellow.svg?style=for-the-badge&logo=c%2B%2B" alt="C++ solutions"/>
@@ -10,12 +13,6 @@
     <img src="https://img.shields.io/badge/SFML-2.5.1-red.svg?style=for-the-badge" alt="SFML 2.5.1"/>
     <img src="https://img.shields.io/badge/Version-1.6-success.svg?style=for-the-badge" alt="Version 1.6"/>
   </p>
-  
-  <br>
-  
-  ![Pac-Man Animation](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&color=FFFF00&center=true&vCenter=true&width=800&height=150&lines=PAC-MAN+GAME;FAST-NUCES;C%2B%2B+%26+SFML+2.5.1;GAME+OVER)
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line break">
   
 </div>
 
@@ -68,16 +65,17 @@ A modern C++ implementation of the classic Pac-Man arcade game. Navigate through
 ## 🛠️ Customization
 
 The game can be easily customized:
-- Modify the number of ghosts by updating values in `Game.h`, `Maze.h` and the map in `Maze.cpp`
+- Modify the number of ghosts by updating ghost-count values in `Game.h`, `Maze.h` and the map in `Maze.cpp`
 - Adjust game difficulty by tweaking ghost speeds and AI behavior
 - Change maze layouts for different levels
+- Pacman colour can also be altered in pacman.cpp
 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshot1.png" width="400" />
-  <img src="screenshot2.png" width="400" />
-  <img src="screenshot3.png" width="400" />
+  <img src="images/screenshot1.png" width="400" />
+  <img src="images/screenshot2.png" width="400" />
+  <img src="images/screenshot3.png" width="400" />
 </div>
 
 ## 🧩 Dependencies
