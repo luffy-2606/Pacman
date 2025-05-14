@@ -73,8 +73,8 @@ The game can be easily customized:
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="images/screenshot1.png" width="400" />
   <img src="images/screenshot2.png" width="400" />
+  <img src="images/screenshot1.png" width="400" />
   <img src="images/screenshot3.png" width="400" />
 </div>
 
