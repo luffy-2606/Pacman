@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=190&section=header&text=PAC-MAN&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20Implementation%20of%20the%20Classic%20Arcade%20Game&descAlignY=60&descAlign=50" />
+  <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=190&section=header&text=PAC-MAN&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20Implementation%20of%20the%20Classic%20Arcade%20Game%20|%20Built%20by%20Saaif&descAlignY=60&descAlign=50" />
   
   <br>
   
@@ -14,7 +14,7 @@
   <br>
   
   ![Pac-Man Animation](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&color=FFFF00&center=true&vCenter=true&width=800&height=150&lines=PAC-MAN+GAME;FAST-NUCES;C%2B%2B+%26+SFML+2.5.1;GAME+OVER)
-  
+
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line break">
   
 </div>
@@ -77,6 +77,7 @@ The game can be easily customized:
 <div align="center">
   <img src="screenshot1.png" width="400" />
   <img src="screenshot2.png" width="400" />
+  <img src="screenshot3.png" width="400" />
 </div>
 
 ## 🧩 Dependencies
