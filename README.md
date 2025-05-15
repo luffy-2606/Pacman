@@ -80,7 +80,7 @@ The game can be easily customized:
 
 ## 🧩 Dependencies
 
-- C++ compiler (built on Visual Studio Code 2022)
+- C++ compiler (built on Visual Studio Code 2022 & Cursor)
 - [SFML 2.5.1](https://www.youtube.com/watch?v=lFzpkvrscs4) - Click for setup guide
 
 ## 🚀 Building and Running
