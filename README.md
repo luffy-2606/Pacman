@@ -68,7 +68,7 @@ The game can be easily customized:
 - Modify the number of ghosts by updating ghost-count values in `Game.h`, `Maze.h` and the map in `Maze.cpp`
 - Adjust game difficulty by tweaking ghost speeds and AI behavior
 - Change maze layouts for different levels
-- Pacman colour can also be altered in pacman.cpp
+- Pacman colour can also be altered in `pacman.cpp`
 
 ## 📸 Screenshots
 
