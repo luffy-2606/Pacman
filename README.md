@@ -83,15 +83,6 @@ The game can be easily customized:
 - C++ compiler (built on Visual Studio Code 2022 & Cursor)
 - [SFML 2.5.1](https://www.youtube.com/watch?v=lFzpkvrscs4) - Click for setup guide
 
-## 🚀 Building and Running
-
-```bash
-git clone https://github.com/luffy-2606/pacman.git
-cd pacman
-make
-./pacman
-```
-
 ## 📜 License
 
 This project is released under the MIT License.
